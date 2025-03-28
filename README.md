@@ -2,6 +2,7 @@
 
 **Date:** 2025-03-28  
 **Student:** *Giacomo Fantato* - 16958
+
 **Course:** Time Series Analysis - UW WNE  
 **Assignment:** Homework #1
 
