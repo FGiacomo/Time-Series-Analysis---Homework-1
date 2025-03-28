@@ -1,8 +1,8 @@
 # 📈 Time Series Analysis – Homework #1
 
 **Date:** 2025-03-28  
-**Student:** *[Your Name]*  
-**Course:** Time Series and Forecasting  
+**Student:** *Giacomo Fantato* - 16958
+**Course:** Time Series Analysis - UW WNE  
 **Assignment:** Homework #1
 
 ---
